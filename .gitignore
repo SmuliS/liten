@@ -1,0 +1,6 @@
+*.gem
+*.rvmrc
+.bundle
+*.swp
+*.swo
+*.DS_Store
